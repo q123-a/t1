@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TriangleTest" tests="41" skipped="0" failures="0" errors="0" timestamp="2023-03-12T11:42:53" hostname="LAPTOP-H0QUE6T9" time="0.215">
+<testsuite name="TriangleTest" tests="41" skipped="0" failures="0" errors="0" timestamp="2023-03-12T14:58:17" hostname="LAPTOP-H0QUE6T9" time="0.267">
   <properties/>
-  <testcase name="[1] 2, 3, 50, 非三角形" classname="TriangleTest" time="0.077"/>
+  <testcase name="[1] 2, 3, 50, 非三角形" classname="TriangleTest" time="0.082"/>
   <testcase name="[2] 100, 101, 99, 输入错误" classname="TriangleTest" time="0.002"/>
   <testcase name="[3] 50, 100, 99, 不等边三角形" classname="TriangleTest" time="0.001"/>
-  <testcase name="[4] 0, 99, 101, 输入错误" classname="TriangleTest" time="0.001"/>
+  <testcase name="[4] 0, 99, 101, 输入错误" classname="TriangleTest" time="0.002"/>
   <testcase name="[1] 2, 0, 50, 输入错误" classname="TriangleTest" time="0.002"/>
   <testcase name="[2] 100, 101, 99, 输入错误" classname="TriangleTest" time="0.002"/>
-  <testcase name="[3] 50, 100, 101, 输入错误" classname="TriangleTest" time="0.001"/>
+  <testcase name="[3] 50, 100, 101, 输入错误" classname="TriangleTest" time="0.002"/>
   <testcase name="[4] 0, 99, 100, 输入错误" classname="TriangleTest" time="0.001"/>
   <testcase name="[5] 50, 50, 99, 等腰三角形" classname="TriangleTest" time="0.001"/>
   <testcase name="[6] 50, 50, 50, 等边三角形" classname="TriangleTest" time="0.001"/>
-  <testcase name="[1] 2, 2, 3, 等腰三角形" classname="TriangleTest" time="0.001"/>
+  <testcase name="[1] 2, 2, 3, 等腰三角形" classname="TriangleTest" time="0.002"/>
   <testcase name="[2] 3, 4, 5, 不等边三角形" classname="TriangleTest" time="0.002"/>
   <testcase name="[3] 0, 1, 1, 输入错误" classname="TriangleTest" time="0.001"/>
-  <testcase name="[1] 1, 1, 2, 非三角形" classname="TriangleTest" time="0.001"/>
+  <testcase name="[1] 1, 1, 2, 非三角形" classname="TriangleTest" time="0.002"/>
   <testcase name="[2] 1, 1, 100, 非三角形" classname="TriangleTest" time="0.001"/>
   <testcase name="[3] 1, 1, 99, 非三角形" classname="TriangleTest" time="0.002"/>
-  <testcase name="[4] 1, 2, 1, 非三角形" classname="TriangleTest" time="0.001"/>
+  <testcase name="[4] 1, 2, 1, 非三角形" classname="TriangleTest" time="0.002"/>
   <testcase name="[5] 1, 2, 2, 等腰三角形" classname="TriangleTest" time="0.001"/>
-  <testcase name="[6] 1, 2, 100, 非三角形" classname="TriangleTest" time="0.001"/>
+  <testcase name="[6] 1, 2, 100, 非三角形" classname="TriangleTest" time="0.002"/>
   <testcase name="[7] 1, 2, 99, 非三角形" classname="TriangleTest" time="0.002"/>
-  <testcase name="[8] 1, 100, 1, 非三角形" classname="TriangleTest" time="0.001"/>
-  <testcase name="[9] 1, 100, 99, 非三角形" classname="TriangleTest" time="0.002"/>
+  <testcase name="[8] 1, 100, 1, 非三角形" classname="TriangleTest" time="0.002"/>
+  <testcase name="[9] 1, 100, 99, 非三角形" classname="TriangleTest" time="0.004"/>
   <testcase name="[10] 1, 100, 2, 非三角形" classname="TriangleTest" time="0.001"/>
-  <testcase name="[11] 1, 100, 100, 等腰三角形" classname="TriangleTest" time="0.001"/>
-  <testcase name="等腰三角形" classname="TriangleTest" time="0.002"/>
+  <testcase name="[11] 1, 100, 100, 等腰三角形" classname="TriangleTest" time="0.002"/>
+  <testcase name="等腰三角形" classname="TriangleTest" time="0.003"/>
   <testcase name="[1] 50, 50, 1, 等腰三角形" classname="TriangleTest" time="0.002"/>
   <testcase name="[2] 50, 50, 2, 等腰三角形" classname="TriangleTest" time="0.001"/>
-  <testcase name="[3] 50, 50, 99, 等腰三角形" classname="TriangleTest" time="0.0"/>
-  <testcase name="[4] 50, 50, 50, 等边三角形" classname="TriangleTest" time="0.001"/>
+  <testcase name="[3] 50, 50, 99, 等腰三角形" classname="TriangleTest" time="0.002"/>
+  <testcase name="[4] 50, 50, 50, 等边三角形" classname="TriangleTest" time="0.002"/>
   <testcase name="[5] 50, 100, 50, 非三角形" classname="TriangleTest" time="0.001"/>
-  <testcase name="[6] 50, 1, 50, 等腰三角形" classname="TriangleTest" time="0.0"/>
+  <testcase name="[6] 50, 1, 50, 等腰三角形" classname="TriangleTest" time="0.001"/>
   <testcase name="[7] 50, 2, 50, 等腰三角形" classname="TriangleTest" time="0.001"/>
-  <testcase name="[8] 50, 99, 50, 等腰三角形" classname="TriangleTest" time="0.001"/>
+  <testcase name="[8] 50, 99, 50, 等腰三角形" classname="TriangleTest" time="0.002"/>
   <testcase name="[9] 100, 50, 50, 非三角形" classname="TriangleTest" time="0.001"/>
   <testcase name="[10] 1, 50, 50, 等腰三角形" classname="TriangleTest" time="0.001"/>
-  <testcase name="[11] 2, 50, 50, 等腰三角形" classname="TriangleTest" time="0.0"/>
-  <testcase name="[12] 99, 50, 50, 等腰三角形" classname="TriangleTest" time="0.001"/>
+  <testcase name="[11] 2, 50, 50, 等腰三角形" classname="TriangleTest" time="0.002"/>
+  <testcase name="[12] 99, 50, 50, 等腰三角形" classname="TriangleTest" time="0.002"/>
   <testcase name="不等边三角形" classname="TriangleTest" time="0.001"/>
   <testcase name="输入错误" classname="TriangleTest" time="0.001"/>
   <testcase name="等边三角形" classname="TriangleTest" time="0.001"/>

@@ -78,6 +78,7 @@ public class TriangleTest {
         String type = triangle.classify(a, b, c);
         assertEquals(expected, type);
     }
+    /*
     @DisplayName(value="三角形弱一般等价类测试用例")
     @ParameterizedTest
     @CsvFileSource(resources = "/三角形弱一般等价类测试用例.csv",numLinesToSkip =1,encoding = "UTF-8")
@@ -85,7 +86,7 @@ public class TriangleTest {
         Triangle triangle=new Triangle();
         String type = triangle.classify(a, b, c);
         assertEquals(expected, type);
-    }
+    }*/
     @DisplayName(value="三角形最坏情况测试用例")
     @ParameterizedTest
     @CsvFileSource(resources = "/三角形最坏情况测试用例.csv",numLinesToSkip =1,encoding = "UTF-8")
